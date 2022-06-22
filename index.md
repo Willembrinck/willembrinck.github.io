@@ -1,8 +1,8 @@
 ## Links
 
 - [Willembrinck Github](github.com/Willembrinck) Repositories related to publications.
-- [Maxwills Github}](github.com/) Repositories with prototypes, and tooling.
-  Mostly for Pharo language and related to my Phd Thesis work.
+- [Maxwills Github](github.com/maxwills) Repositories with prototypes and tooling, mostly for Pharo language and related to my Phd Thesis work.
+- [Other Github](github.com/maxwills) Side projects, unrelated to work.
 - [This page](www.willembrinck.com)
 
 <!---
