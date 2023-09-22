@@ -16,9 +16,9 @@ Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:max
 
 ## PhD Publications
 
-- [Publication 1 Title](link_to_publication_1)
-- [Publication 2 Title](link_to_publication_2)
-- [Publication 3 Title](link_to_publication_3)
+- [Publication 1 Title](https://www.linkedin.com/in/your-profile)
+- [Publication 2 Title](https://www.linkedin.com/in/your-profile)
+- [Publication 3 Title](https://www.linkedin.com/in/your-profile)
 
 ## Other Links
 
