@@ -7,11 +7,11 @@ Here you can find links to my LinkedIn profile, contact information, and researc
 ## Thesis Defense
 
 I am currently in the process of defending my PhD thesis.
-You can download the thesis document (version for reviewers) [here](willembrinck.com)
+You can download the thesis document (version for reviewers) [here](https://github.com/Willembrinck/2023-Selective-Time-Traveling-Thesis/raw/main/thesis-maximilian-willembrinck-2023.pdf)
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/maxwillembrinck)
 - [YouTube](https://www.youtube.com/@maxwillembrinck)
 
 ## Contact
