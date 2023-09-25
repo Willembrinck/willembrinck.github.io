@@ -12,7 +12,7 @@ You can download the thesis document (version for reviewers) [here](willembrinck
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
-
+- [YouTube](https://www.youtube.com/@maxwillembrinck)
 
 ## Contact
 
