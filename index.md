@@ -1,7 +1,13 @@
 <!---![Your Profile Picture](link_to_profile_picture.jpg) -->
 
 Welcome to my personal page! I am a researcher in the domain of debugging, currently finishing my PhD at the University of Lille.
+
 Here you can find links to my LinkedIn profile, contact information, and research.
+
+## Thesis Defense
+
+I am currently in the process of defending my PhD thesis.
+You can download the thesis document (version for reviewers) [Here](willembrinck.com)
 
 ## Connect with Me
 
