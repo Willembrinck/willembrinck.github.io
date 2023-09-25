@@ -24,5 +24,7 @@ Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:max
 
 - <a href="https://www.github.com/maxwills" title="Personal Github">Personal Github</a> Contains repositories with prototypes and tooling, mostly for Pharo language and related to my Phd Thesis work.
 - <a href="https://www.github.com/willembrinck" title="Professional Github">Professional Hub</a> My github with repositories dedicated for publications and specific works.
+
+  
 ---
 © 2023 Maximilian Willembrinck
