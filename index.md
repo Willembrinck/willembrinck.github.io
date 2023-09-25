@@ -1,5 +1,3 @@
-# Maximilian Ignacio Willembrinck Santander
-
 <!---![Your Profile Picture](link_to_profile_picture.jpg) -->
 
 Welcome to my personal page! I am a researcher in the domain of debugging, currently finishing my PhD at the University of Lille.
@@ -24,7 +22,3 @@ Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:max
 
 - <a href="https://www.github.com/maxwills" title="Personal Github">Personal Github</a> Contains repositories with prototypes and tooling, mostly for Pharo language and related to my Phd Thesis work.
 - <a href="https://www.github.com/willembrinck" title="Professional Github">Professional Hub</a> My github with repositories dedicated for publications and specific works.
-
-  
----
-© 2023 Maximilian Willembrinck
