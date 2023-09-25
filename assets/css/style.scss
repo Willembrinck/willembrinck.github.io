@@ -13,5 +13,18 @@
     position: absolute;
     top: 0;
     left: 0;
-    content: "This text replaces the original.";
+    content: "Maximilian Willembrinck";
+}
+
+#footer_wrap footer p{
+    visibility: hidden;
+    position: relative;
+}
+
+#footer_wrap footer p:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "© 2023 Maximilian Willembrinck";
 }
