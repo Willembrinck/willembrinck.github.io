@@ -20,9 +20,10 @@ Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:max
 
 ## PhD Publications
 
-- [Publication 1 Title](link_to_publication_1)
-- [Publication 2 Title](link_to_publication_2)
-- [Publication 3 Title](link_to_publication_3)
+- [Time-Traveling Debugging Queries: Faster Program Exploration](https://hal.science/hal-03463047) - *Maximilian Willembrinck, Steven Costiou, Anne Etien, Stéphane Ducasse.* International Conference on Software Quality, Reliability, and Security, Dec 2021, Hainan Island, China.
+- [Time-Traveling Queries for Faster Debugging and Program Comprehension (Poster, 1st place Award)](https://hal.science/hal-03738585) - *Maximilian Willembrinck, Steven Costiou, Anne Etien, Stéphane Ducasse.* Journées Nationales du Génie de la Programmation et du Logiciel 2022, Jun 2022, Vannes, France.
+- [Towards Object-Centric Time-Traveling Debuggers](https://hal.science/hal-03825736) - *Maximilian Willembrinck, Steven Costiou, Adrien Vanègue, Anne Etien.* International Workshop on Smalltalk Technologies : IWST 22, Aug 2022, Novi Sad, Serbia.
+- [Time-Traveling Queries for Faster Debugging and Program Comprehension (Demo, 1st place Award)](https://esug.github.io/2022-Conference/awardsSubmissions.html) - *Maximilian Willembrinck, Steven Costiou, Anne Etien, Stéphane Ducasse.* Innovation Technology Awards 17th Edition, Esug 2022, Aug 2022, Novi Sad, Serbia. [Link to video.](https://youtu.be/cgYY-nNjnsA?si=3S06msmPS6sNQySK)
 
 ## Other Links
 
