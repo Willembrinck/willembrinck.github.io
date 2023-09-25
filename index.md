@@ -7,7 +7,7 @@ Here you can find links to my LinkedIn profile, contact information, and researc
 ## Thesis Defense
 
 I am currently in the process of defending my PhD thesis.
-You can download the thesis document (version for reviewers) [Here](willembrinck.com)
+You can download the thesis document (version for reviewers) [here](willembrinck.com)
 
 ## Connect with Me
 
