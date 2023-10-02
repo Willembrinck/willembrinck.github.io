@@ -18,6 +18,11 @@ You can download the thesis document [here (version for reviewers).](https://git
 
 Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:maximilian@willembrinck.com).
 
+## Job-Searching
+
+- [My CV In English](https://github.com/Willembrinck/willembrinck.github.io/raw/source/Curriculum%202023-09-25%20eng.pdf).
+- [My CV In French](https://github.com/Willembrinck/willembrinck.github.io/raw/source/Curriculum%202023-09-25%20fr.pdf).
+
 ## PhD Publications
 
 - [Time-Traveling Debugging Queries: Faster Program Exploration](https://hal.science/hal-03463047) - *Maximilian Willembrinck, Steven Costiou, Anne Etien, Stéphane Ducasse.* International Conference on Software Quality, Reliability, and Security, Dec 2021, Hainan Island, China.
@@ -29,3 +34,4 @@ Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:max
 
 - <a href="https://www.github.com/maxwills" title="Personal Github">Personal Github</a> Contains repositories with prototypes and tooling, mostly for Pharo language and related to my Phd Thesis work.
 - <a href="https://www.github.com/willembrinck" title="Professional Github">Professional Hub</a> My github with repositories dedicated for publications and specific works.
+
