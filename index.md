@@ -20,8 +20,8 @@ Feel free to reach out to me via email: [maximilian@willembrinck.com](mailto:max
 
 ## Job-Searching
 
-- [My CV In English](https://github.com/Willembrinck/willembrinck.github.io/raw/source/Curriculum%202023-09-25%20eng.pdf).
-- [My CV In French (Mon CV en français)](https://github.com/Willembrinck/willembrinck.github.io/raw/source/Curriculum%202023-09-25%20fr.pdf).
+- [My CV In English](https://github.com/Willembrinck/willembrinck.github.io/raw/source/Curriculum%202024-08-12%20eng%20short.pdf).
+- [My CV In French (Mon CV en français)](https://github.com/Willembrinck/willembrinck.github.io/raw/source/Curriculum%202024-08-12%20fr%20short.pdf).
 
 ## PhD Publications
 
