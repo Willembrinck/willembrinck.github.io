@@ -1,12 +1,13 @@
 <!---![Your Profile Picture](link_to_profile_picture.jpg) -->
 
-Welcome to my personal page! I am a researcher in the domain of debugging, currently finishing my PhD at the University of Lille.
+Welcome to my personal page! I software engineer, currently a PhD from the University of Lille looking for a new job position.
 
 Here you can find links to my LinkedIn profile, contact information, and research.
 
-## Thesis Defense
+## Thesis 
 
-I am currently in the process of defending my PhD thesis.
+(Updated)
+I defeded my PhD thesis in November 2023.
 You can download the thesis document [here (version for reviewers).](https://github.com/Willembrinck/2023-Selective-Time-Traveling-Thesis/raw/main/thesis-maximilian-willembrinck-2023.pdf)
 
 ## Connect with Me
