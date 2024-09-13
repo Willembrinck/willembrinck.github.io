@@ -7,7 +7,7 @@ Here you can find links to my LinkedIn profile, contact information, and researc
 ## Thesis 
 
 (Updated)
-I defeded my PhD thesis in November 2023.
+I sucessfully defended my PhD thesis in November 2023.
 You can download the thesis document [here (version for reviewers).](https://github.com/Willembrinck/2023-Selective-Time-Traveling-Thesis/raw/main/thesis-maximilian-willembrinck-2023.pdf)
 
 ## Connect with Me
